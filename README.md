@@ -468,9 +468,5 @@ npx react-native info
 
 ---
 
-Kya aap chahte ho main ab:
-1. **Mitti Manager app ka complete React Native code** banau?
-2. **Expo version** setup karoon (easier)?
-3. Kisi specific step mein help chahiye?
 
 Bataiye kahan se shuru karein! 💪
